@@ -2,15 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1c13856-e678-4ab5-8397-569fcb533322" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vesper/src/components/ClientSection.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vesper/src/components/Header.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vesper/src/components/HeroSection.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vesper/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesper/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vesper.rar" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,7 +52,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591126200829</updated>
-      <workItem from="1591126203966" duration="3366000" />
+      <workItem from="1591126203966" duration="5688000" />
+      <workItem from="1591167091411" duration="894000" />
     </task>
     <task id="LOCAL-00001" summary="comit coment">
       <created>1591130852741</created>
@@ -52,7 +62,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591130852741</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="remove coment">
+      <created>1591133454114</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591133454114</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -63,7 +80,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -71,6 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="comit coment" />
-    <option name="LAST_COMMIT_MESSAGE" value="comit coment" />
+    <MESSAGE value="remove coment" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove coment" />
   </component>
 </project>
