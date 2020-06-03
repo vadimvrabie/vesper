@@ -2,15 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1c13856-e678-4ab5-8397-569fcb533322" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vesper/src/assets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vesper/src/components/FooterSection.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vesper/src/components/main/AboutUs.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vesper/src/components/main/ContactSection.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vesper/src/components/main/CountsSection.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vesper/src/components/main/FAQSection.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vesper/src/components/main/FeatureSection.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vesper/src/components/main/MoreServicesSection.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vesper/src/components/main/PortofolioSection.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vesper/src/components/main/PricingSection.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vesper/src/components/main/ServicesSection.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vesper/src/components/main/TeamSection.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vesper/src/components/main/TestimonialSection.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vesper/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesper/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vesper/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vesper/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vesper/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vesper/src/components/ClientSection.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vesper/src/components/main/ClientSection.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vesper/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vesper/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vesper/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vesper/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/vesper/src/router/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Vue Single File Component" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -20,6 +45,12 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\vadim\Desktop\vesperr\vesper\src\components\main" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -43,7 +74,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591126200829</updated>
-      <workItem from="1591126203966" duration="3366000" />
+      <workItem from="1591126203966" duration="5688000" />
+      <workItem from="1591167091411" duration="7798000" />
     </task>
     <task id="LOCAL-00001" summary="comit coment">
       <created>1591130852741</created>
@@ -52,7 +84,21 @@
       <option name="project" value="LOCAL" />
       <updated>1591130852741</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="remove coment">
+      <created>1591133454114</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1591133454114</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add three components">
+      <created>1591168061224</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591168061224</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -63,7 +109,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -71,6 +119,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="comit coment" />
-    <option name="LAST_COMMIT_MESSAGE" value="comit coment" />
+    <MESSAGE value="remove coment" />
+    <MESSAGE value="Add three components" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add three components" />
   </component>
 </project>
