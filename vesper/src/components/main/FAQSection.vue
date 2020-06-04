@@ -77,5 +77,31 @@
 </script>
 
 <style scoped>
+  .faq .faq-item {
+    margin: 20px 0;
+    padding: 20px 0;
+    border-bottom: 1px solid #eeeeee;
+  }
+
+  .faq .faq-item i {
+    color: #8bc4ea;
+    font-size: 24px;
+    float: left;
+    line-height: 0;
+    padding: 13px 0 0 0;
+    margin: 0;
+  }
+
+  .faq .faq-item h4 {
+    font-size: 16px;
+    line-height: 26px;
+    font-weight: 500;
+    margin: 0 0 10px 32px;
+    font-family: "Poppins", sans-serif;
+  }
+
+  .faq .faq-item p {
+    font-size: 15px;
+  }
 
 </style>
