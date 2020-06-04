@@ -1,23 +1,23 @@
 <template>
   <div id="app">
+    <app-main></app-main>
+    <div class="row">
+      <div class="col-xs-12">
+        <router-view></router-view>
+      </div>
+    </div>
 
-    <router-view/>
   </div>
 </template>
 
 <script>
-export default {
-  name: 'App'
+  import Main from "./components/Main";
+  export default {
+     appMain: Main,
+
 }
 </script>
 
 <style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+
 </style>
