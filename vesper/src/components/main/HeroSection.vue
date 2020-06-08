@@ -11,7 +11,7 @@
           </div>
         </div>
         <div class="col-lg-6 order-1 order-lg-2 hero-img" data-aos="fade-left" data-aos-delay="200">
-          <img src="assets/img/hero-img.png" class="img-fluid animated" alt="">
+          <img src="../img/hero-img.png" class="img-fluid animated" alt="">
         </div>
       </div>
     </div>
@@ -21,7 +21,12 @@
 
 <script>
     export default {
-        name: "HeroSection"
+        name: "HeroSection",
+        data(){
+            return{
+                // image: "components/main/hero-img.png"
+            }
+        }
     }
 </script>
 

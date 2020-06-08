@@ -1,8 +1,8 @@
 <template>
   <div id="app">
-    <app-main></app-main>
     <div class="row">
-      <div class="col-xs-12">
+      <div class="container col-xs-12">
+    <app-main></app-main>
         <router-view></router-view>
       </div>
     </div>
