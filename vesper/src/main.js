@@ -4,6 +4,8 @@ import Vue from 'vue'
 import App from './App'
 require('../src/assets/style.css');
 import { BootstrapVue, IconsPlugin } from 'bootstrap-vue'
+import AOS from 'aos';
+import 'aos/dist/aos.css';
 
 // Install BootstrapVue
 Vue.use(BootstrapVue);
@@ -19,6 +21,9 @@ Vue.config.productionTip = false;
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
+  created(){
+    AOS.init();
+  },
   router,
   components: { App },
   template: '<App/>'
