@@ -4,16 +4,8 @@
     <list default="true" id="f1c13856-e678-4ab5-8397-569fcb533322" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vesper/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vesper/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vesper/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vesper/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vesper/src/components/Main.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vesper/src/components/Main.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vesper/src/components/main/ClientSection.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vesper/src/components/main/ClientSection.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vesper/src/components/main/CountsSection.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vesper/src/components/main/CountsSection.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vesper/src/components/main/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vesper/src/components/main/Header.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vesper/src/components/main/HeroSection.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vesper/src/components/main/HeroSection.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vesper/src/components/main/MoreServicesSection.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vesper/src/components/main/MoreServicesSection.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vesper/src/components/main/PortofolioSection.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vesper/src/components/main/PortofolioSection.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vesper/src/components/main/TeamSection.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vesper/src/components/main/TeamSection.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vesper/src/components/main/TestimonialSection.vue" beforeDir="false" afterPath="$PROJECT_DIR$/vesper/src/components/main/TestimonialSection.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vesper/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/vesper/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vesper/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/vesper/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vesper/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/vesper/src/main.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -81,7 +73,8 @@
       <workItem from="1591167091411" duration="28515000" />
       <workItem from="1591273191193" duration="11551000" />
       <workItem from="1591286397819" duration="8172000" />
-      <workItem from="1591355018315" duration="8874000" />
+      <workItem from="1591355018315" duration="12029000" />
+      <workItem from="1591701828312" duration="3086000" />
     </task>
     <task id="LOCAL-00001" summary="comit coment">
       <created>1591130852741</created>
@@ -118,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591284699789</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="comit 08/06/2020">
+      <created>1591619462361</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1591619462361</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +143,7 @@
     <MESSAGE value="Add three components" />
     <MESSAGE value="am mai adaugat componente" />
     <MESSAGE value="comit 04/06/2020" />
-    <option name="LAST_COMMIT_MESSAGE" value="comit 04/06/2020" />
+    <MESSAGE value="comit 08/06/2020" />
+    <option name="LAST_COMMIT_MESSAGE" value="comit 08/06/2020" />
   </component>
 </project>
